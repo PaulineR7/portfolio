@@ -1,0 +1,16 @@
+@import '../../sass/abstracts/typographie';
+@import '../../sass/abstracts/base';
+
+.bg-color {
+    background-color: black;
+    height: 97vh;
+    margin: 0;
+}
+
+.title-name {
+    font-size: 4rem;
+    font-family: "writer";
+    text-transform: uppercase;
+    color: white;
+    background-color: black;
+}

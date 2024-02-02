@@ -1,0 +1,29 @@
+header {
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 1rem;
+    padding: 15px;
+}
+
+.initial {
+    font-family: "writer";
+    color: white;
+    width: 40%;
+    margin-left: 5%;
+}
+
+.flex-ul {
+    color: white;
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    width: 60%;
+    margin-right: 5%;
+}
+
+li {
+    margin-right: 10%;
+}
+
